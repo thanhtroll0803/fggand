@@ -1,1 +1,1 @@
-NROoffline:103.149.252.167:14445:0,NRO cc:160.30.168.20:8878:0,NRO local:localhost:14445:0,0,0
+Ngọc Rồng XX:nroxx.click:14445:0,NRO local:localhost:14445:0,0,0
