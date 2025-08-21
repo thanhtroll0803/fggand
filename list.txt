@@ -1,1 +1,1 @@
-Ngọc Rồng Free:103.149.28.76:14445:0,Ngọc Rồng Free:103.149.28.76:14445:0,0,0
+Ngọc Rồng Free:103.149.28.76:14445:0,Ngọc Rồng local:localhost:14445:0,0,0
